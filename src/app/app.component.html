@@ -1,0 +1,38 @@
+<mat-toolbar color="secondary">
+  <div class="img">   
+     <!-- <img src="assets/images/logo.png" class="img-fluid" alt="logo">
+      <img src="assets/images/texto.png" class="img-fluid" class="btn" alt="logoText">-->
+  </div>
+<mat-toolbar-row>
+
+  <button mat-button (click)="goHome()">{{title}}</button>
+  <button mat-button (click)="goInformation()">Information</button>
+  <button mat-button (click)="goFooter()">Contact</button>
+
+  <span class="spacer"></span>
+  <div>
+    <span>
+      <a class="link" target="_blank" href="https://www.github.com/" class="fa fa-github fa-lg"></a>
+    </span>
+  </div>
+
+  <div class="icon-list">
+    <span>
+      <a class="link" target="_blank" href="https://www.facebook.com/" class="fa fa-facebook"></a>
+    </span>
+  </div>
+
+  <div class="icon-list">
+    <span>
+      <a class="link" target="_blank" href="https://www.google.com/" class="fa fa-google"></a>
+    </span>
+  </div>
+
+
+</mat-toolbar-row>
+</mat-toolbar>
+
+<app-home></app-home>
+<app-line></app-line>
+<app-information></app-information>
+<app-footer></app-footer>

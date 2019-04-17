@@ -1,0 +1,37 @@
+mat-toolbar {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0; 
+    z-index: 1000;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.icon-list {
+    margin-left: 1rem;
+}
+
+.fa-facebook {
+    color: white;
+    padding-bottom: .8rem;
+    text-decoration: none;
+}
+
+.fa-github {
+    color: white;
+    padding-bottom: .8rem;
+    text-decoration: none;
+}
+
+.fa-google {
+    color: white;
+    padding-bottom: .8rem;
+    text-decoration: none;
+}

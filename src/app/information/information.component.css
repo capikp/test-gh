@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20%;
+    background-image: url('../../assets/images/background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+}
+
+mat-card {
+    margin-left: .5rem;
+}

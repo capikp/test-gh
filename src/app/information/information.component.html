@@ -1,0 +1,12 @@
+<div class="content" id="services-list"> 
+  <div *ngFor="let service of services">
+    <mat-card>
+      <mat-card-title>
+        {{service.name}}
+      </mat-card-title>
+      <mat-card-content>
+        {{service.description}}
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>

@@ -1,0 +1,13 @@
+.line-box {
+    background-color: #0c0c0ce3;
+    padding: 1rem;
+    color: #fff;
+    text-align: center;
+}
+  
+.line-box h2{
+    display: inline-block;
+    vertical-align: inherit;
+    margin-left: 30px;
+    font-size: 24px;
+}
