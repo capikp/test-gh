@@ -8,13 +8,13 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/es2015-polyfills.c5dd28b362270c767b34.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.75c3462c48b854a4a674.js",
-        "/polyfills.8bbb231b43165d65d357.js",
-        "/runtime.26209474bfa8dc87a77c.js",
-        "/styles.91a3a8b1b2d9b83a0da3.css"
+        "./es2015-polyfills.c5dd28b362270c767b34.js",
+        "./favicon.ico",
+        "./index.html",
+        "./main.75c3462c48b854a4a674.js",
+        "./polyfills.8bbb231b43165d65d357.js",
+        "./runtime.26209474bfa8dc87a77c.js",
+        "./styles.91a3a8b1b2d9b83a0da3.css"
       ],
       "patterns": []
     },
