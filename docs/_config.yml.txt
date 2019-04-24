@@ -1,6 +1,5 @@
 plugins:
   - jekyll-redirect-from
 
----
-redirect_from: "/foo/"
----
+title: My amazing post
+redirect_to: http://www.github.com
