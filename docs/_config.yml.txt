@@ -2,5 +2,5 @@ plugins:
   - jekyll-redirect-from
 
 ---
-redirect_from: "/foo/"
+redirect_from: "/Test-Gh/"
 ---
