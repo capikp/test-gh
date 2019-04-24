@@ -1,6 +1,6 @@
+title: My Title
+baseurl: /my-project
+url: "https://my-organisarion.github.io/my-project"
 plugins:
   - jekyll-redirect-from
-
----
 redirect_from: "/Test-Gh/"
----
